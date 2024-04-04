@@ -22,7 +22,7 @@ The dataset used for training and testing the CNN model consists of images of ch
 Clone the repository:
 
    ```
-   git clone https://github.com/your_username/character-recognition-cnn.git
+   git clone https://github.com/SriyaVaishnavi/TNSDC-GEN-AI.git
    ```
 
 ## Usage
